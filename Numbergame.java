@@ -26,7 +26,7 @@ public class Numbergame
     {
        Scanner o = new Scanner(System.in);
        System.out.println(" ");
-       System.out.println("Number guessing game...u have three chance to guess the correct number");
+       System.out.println("Number guessing game...u have seven chance to guess the correct number");
        
       int guess;
        int tries=0;
