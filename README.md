@@ -1,4 +1,4 @@
 # CodSoft
 internship assignments
 
-hi this is ama
+hi this is aman
