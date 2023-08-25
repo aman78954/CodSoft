@@ -26,11 +26,11 @@ public class Numbergame
     {
        Scanner o = new Scanner(System.in);
        System.out.println(" ");
-       System.out.println("Number guessing game...u have seven chance to guess the correct number");
+       System.out.println("Number guessing game...u have four chance to guess the correct number");
        
       int guess;
        int tries=0;
-       while(tries<7){
+       while(tries<4){
         tries++;
         System.out.println("enter a number between 1-100");
        guess=o.nextInt();
